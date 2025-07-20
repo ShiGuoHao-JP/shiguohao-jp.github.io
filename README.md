@@ -18,7 +18,7 @@
 
 - **プロジェクト概要**：NBA公式ライセンスを受けた3対3ストリートバスケットボール競技モバイルゲーム（ iOS / Android 対応 ）
 
-- **使用技術**：Unity, C#, [xLua](https://github.com/Tencent/xLua), [behaviac](https://github.com/Tencent/behaviac), 状態同期, SVN
+- **使用技術**：Unity, C#, [xLua](https://github.com/Tencent/xLua), [behaviac](https://github.com/Tencent/behaviac), 状態同期
 
 #### **担当業務**
 
